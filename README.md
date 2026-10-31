@@ -69,5 +69,3 @@ Our first client project, developed to deliver a tailored digital experience bas
 Have an idea or looking for digital solutions to grow your business?
 
 **AMITY TECHNOLOGIES**
-
-*Together Towards a Digital Future.*
